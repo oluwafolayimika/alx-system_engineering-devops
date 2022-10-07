@@ -1,1 +1,1 @@
-Making hello a 007
+Setting the mode of the file hello the same as olleh’s mode.

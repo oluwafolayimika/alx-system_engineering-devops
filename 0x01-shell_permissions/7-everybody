@@ -1,1 +1,2 @@
-Adding  execution permission to the owner, the group owner and the other users, to the file hello
+#!/bin/bash
+chmod +111 hello

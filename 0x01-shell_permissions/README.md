@@ -1,1 +1,1 @@
-adding ececute permmision to the file hello
+Executing permission to the owner and the group owner, and read permission to other users, to the file hello
